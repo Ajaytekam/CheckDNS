@@ -1,6 +1,6 @@
 # CheckDNS  
 
-Check DNS reconrds of a Domain/Subdomain.  
+Check DNS records of a Domain/Subdomain.  
 
 **Usage :**  
 
